@@ -1,0 +1,11 @@
+.dashboard{
+    margin: 20px 40px;
+}
+.dashboard .btnlogout{
+    display: flex;
+    justify-content: flex-end;
+}
+.dashboard .main-title{
+    font-size: 30px;
+    font-weight: 700;
+}
